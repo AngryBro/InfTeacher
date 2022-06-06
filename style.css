@@ -1,0 +1,43 @@
+body {
+    font-size: 25pt;
+    margin-left: 100;
+	font-family: Comic Sans MS;
+    }
+li {
+    margin: 30px 0;
+    }
+a {
+    text-decoration: none;
+    color: black;
+    }
+a:hover {
+    color: blue;
+    }
+.pur {
+    color: BlueViolet;
+}
+.bl {
+    color: blue;
+}
+.bold {
+    font-weight: bold;
+}
+.normal {
+    font-weight: normal;
+}
+.highlight {
+	font-size: 50;
+	font-weight: 500;
+}
+table {
+	font-size: 40;
+	border: 2px solid black;
+	border-collapse: collapse;
+}
+td {
+	border: 2px solid black;
+	padding: 7px;
+}
+tr {
+	text-align: center;
+}
